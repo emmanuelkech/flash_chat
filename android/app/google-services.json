@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181490391004",
+    "project_id": "flash-chat-bceee",
+    "storage_bucket": "flash-chat-bceee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181490391004:android:1820192f4fc456af5ce119",
+        "android_client_info": {
+          "package_name": "com.emmanuelkech.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181490391004-jsae46779et0jv3pjgohnurl6a5qtck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmLuAaaA111bj2VTAzxruPklKlY9jwiXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181490391004-jsae46779et0jv3pjgohnurl6a5qtck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
